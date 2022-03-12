@@ -34,11 +34,11 @@ To enhance the users experience, requirements are as follows:
 - Compelling graphics. 
 
 To provide a clear representation is going on the graphics must cleanly display the rays intersecting with the walls and stopping. Error handling will also be a main priority, humans making mistakes when inputting information is inevitable so it's important the program is able to handle these improper inputs.  
+![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.001.png) ![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.002.png)
 
 **Core Features:** 
 
-Main Menu - will display various options for running different parts of the  ![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.001.png)program.  
-
+Main Menu - will display various options for running different parts of the program.  
 2D Raycast GUI - will display a 2D visualization of the rays interacting with  walls.  
 
 User Controls - the user will need to be able to interact with the program  and control the character.  
@@ -47,7 +47,7 @@ The player will have a main direction that they are facing which will be  used t
 
 **User Interface:** 
 
-Main Menu: The main menu will be a simple and clean method of navigating the different parts of the program. ![](Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.002.png)
+Main Menu: The main menu will be a simple and clean method of navigating the different parts of the program. 
 
 Line Segments: Will be a simplistic visualization of line segment intersection without much user input. 
 
@@ -59,15 +59,15 @@ For the project to be functional calculations will need to be made using the fol
 
 Distance: 
 
-![](Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.003.png)
+![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.003.png)
 
 Will be used to calculate distances between points. Line Segment Intersection: 
 
-![](Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.004.png)
+![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.004.png)
 
 Will be used to calculate where line segments intersect with one another, this will need to be done many times throughout the program so its important it works properly for all cases. 
 
-![](Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.005.png)
+![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.005.png)
 
 **Sequence Diagram:** 
 
@@ -77,7 +77,7 @@ Will be used to calculate where line segments intersect with one another, this w
 - Then the GUI and player will be updated with updated rays. 
 - The player rays will need to be rechecked after each movement and updated. 
 
-![](Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.006.png)
+![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.006.png)
 
 **Use Case Diagram (Updated):** 
 
