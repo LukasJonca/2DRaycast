@@ -37,7 +37,7 @@ To provide a clear representation is going on the graphics must cleanly display 
 
 **Core Features:** 
 
-Main Menu - will display various options for running different parts of the  ![](Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.001.png)program.  
+Main Menu - will display various options for running different parts of the  ![](Images/Aspose.Words.b73065e2-1768-493d-ac26-a6131d15c5fd.001.png)program.  
 
 2D Raycast GUI - will display a 2D visualization of the rays interacting with  walls.  
 
