@@ -1,7 +1,4 @@
 # 2DRaycast
-**2D Raycasting** 
-
-Lukas Jonca 2020-05-04 ICS4U 
 
 **Introduction:** 
 
